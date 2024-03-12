@@ -1,0 +1,12 @@
+Que 6. Explain the importance of choosing meaningful and descriptive variable names in JavaScript. Provide an example where using a clear identifier improves code readability.
+
+Sol:
+Choosing meaningful and descriptive variable names in JavaScript is important for several reasons:
+
+Readability: Clear and descriptive variable names make the code easier to read and understand. When other developers (or even yourself in the future) review the code, they can quickly grasp the purpose and intent of each variable without needing to decipher cryptic names.
+
+Maintainability: Meaningful variable names make it easier to maintain and update the codebase. When you revisit the code to make changes or fix bugs, intuitive variable names help you navigate the code more efficiently and reduce the risk of introducing errors.
+
+Debugging: Clear variable names can aid in debugging by providing valuable context about the purpose and usage of each variable. When troubleshooting issues, descriptive names help identify the relevant variables more quickly, facilitating a faster resolution of problems.
+
+Collaboration: When working on projects with multiple team members, meaningful variable names promote effective collaboration by enhancing communication and reducing misunderstandings. Consistently using descriptive names improves the shared understanding of the codebase among team membe

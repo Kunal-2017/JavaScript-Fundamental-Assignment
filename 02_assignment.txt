@@ -1,0 +1,59 @@
+Que 2. Explain the key differences between JavaScript and HTML. Provide examples of situations where
+you would use each.
+
+Sol: Nature Of HTML & JS:
+
+HTML (Hypertext Markup Language): HTML is a markup language used for creating the structure and content of web pages. It defines the elements and layout of a webpage, such as headings, paragraphs, images, and links.
+
+JavaScript: JavaScript is a programming language used for adding interactivity, dynamic behavior, and functionality to web pages. It enables actions like user input validation, animations, and data manipulation.
+
+Purpose Of HTML & JS:
+
+HTML: HTML provides the basic structure and content of a webpage. It's used to organize and present information to users in a structured format.
+
+JavaScript: JavaScript enhances the functionality of a webpage by enabling interactive elements, responding to user actions, and manipulating content dynamically.
+Usage:
+
+HTML: You use HTML to define the static content and structure of a webpage. For example, you use HTML to create headings, paragraphs, lists, images, tables, and links. Here's an example of HTML code to create a simple webpage structure:
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Webpage</title>
+</head>
+<body>
+    <h1>Welcome to My Webpage</h1>
+    <p>This is a paragraph of text.</p>
+    <img src="image.jpg" alt="An image">
+    <a href="https://www.example.com">Click here</a> to visit Example.com.
+</body>
+</html>
+
+JavaScript: You use JavaScript to add interactivity and dynamic behavior to a webpage. For example, you can use JavaScript to create pop-up messages, validate form input, handle events like button clicks or mouse movements, and update content without reloading the page. Here's an example of JavaScript code to display a pop-up message:
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JavaScript Example</title>
+    <script>
+        function showMessage() {
+            alert('Hello, world!');
+        }
+    </script>
+</head>
+<body>
+    <button onclick="showMessage()">Click me</button>
+</body>
+</html>
+
+Execution Of HTML & JS:
+
+HTML: HTML is parsed and rendered by the web browser to display the content and structure of a webpage.
+JavaScript: JavaScript code is executed by the web browser, either as the page loads or in response to user actions, such as clicking a button or submitting a form.
+
+
+
+
+
+
+
